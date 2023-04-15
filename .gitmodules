@@ -1,0 +1,6 @@
+[submodule "ps1-2022-ericmiranda7"]
+	path = ps1-2022-ericmiranda7
+	url = git@github.com:cs51/ps1-2022-ericmiranda7.git
+[submodule "ps2-2022-ericmiranda7"]
+	path = ps2-2022-ericmiranda7
+	url = git@github.com:cs51/ps2-2022-ericmiranda7.git
